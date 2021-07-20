@@ -1,2 +1,1 @@
-# Blogs-
-This is blogs project
+This is gitHub
